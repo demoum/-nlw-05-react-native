@@ -1,14 +1,24 @@
 
 
-Stack: React Native, Typescript e Expo.
+Stack: 
+
+React Native
+
+Typescript
+
+Expo
+
 
 💻 Projeto da Rocketseat
+
 Aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil de acordo com cada tipo de plantinha.
 
 🔖 Layout
+
 Figma: https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1
 
 🚀 Como executar
+
 Clone o repositório
 Instale as dependências com yarn
 Inicie seu app com expo start
